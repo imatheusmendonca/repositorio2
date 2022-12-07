@@ -1,0 +1,11 @@
+C:\Users\matheus.mtsouza3\source\repos\MeuProjeto\MeuProjeto\bin\Debug\MeuProjeto.exe.config
+C:\Users\matheus.mtsouza3\source\repos\MeuProjeto\MeuProjeto\bin\Debug\MeuProjeto.exe
+C:\Users\matheus.mtsouza3\source\repos\MeuProjeto\MeuProjeto\bin\Debug\MeuProjeto.pdb
+C:\Users\matheus.mtsouza3\source\repos\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.csproj.AssemblyReference.cache
+C:\Users\matheus.mtsouza3\source\repos\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\matheus.mtsouza3\source\repos\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.Form1.resources
+C:\Users\matheus.mtsouza3\source\repos\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.Properties.Resources.resources
+C:\Users\matheus.mtsouza3\source\repos\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.csproj.GenerateResource.cache
+C:\Users\matheus.mtsouza3\source\repos\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.csproj.CoreCompileInputs.cache
+C:\Users\matheus.mtsouza3\source\repos\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.exe
+C:\Users\matheus.mtsouza3\source\repos\MeuProjeto\MeuProjeto\obj\Debug\MeuProjeto.pdb
